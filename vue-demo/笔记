@@ -1,0 +1,25 @@
+
+添加方式：
+（1）WebStorm的preference的language下的node.js中添加
+（2）指令添加  npm install name
+
+1.页面跳转
+router:
+创建工程已加入
+
+2.组件管理
+store
+
+3.界面设计
+element-ui
+echarts
+
+4.交互
+
+ (1)axios
+
+(2)http请求
+
+VueResource
+
+jsonp解决跨域
